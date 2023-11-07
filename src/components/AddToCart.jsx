@@ -48,7 +48,7 @@ export default function AddToCart({
                   {x + 1}
                 </option>
               ))}
-            </select>
+            </select>{' '}
           </div>
         </div>
       )}
